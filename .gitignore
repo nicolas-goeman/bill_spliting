@@ -1,0 +1,4 @@
+/build
+/dist
+*.ipynb
+.DS_store
